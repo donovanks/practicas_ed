@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class MovPuntos : MonoBehaviour
+public class MovPuntos2 : MonoBehaviour
 {
     public float velocidad;
     public Transform sierra;
