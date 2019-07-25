@@ -1,1 +1,1 @@
-# practicas_ed
+# Practicas_ED
