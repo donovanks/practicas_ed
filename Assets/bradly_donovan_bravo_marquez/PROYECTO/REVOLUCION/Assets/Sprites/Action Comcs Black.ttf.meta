@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: a51454e6f888bd343a66220f03b582e0
+guid: fea20ad3efa7ed642ba0cf7a5c7cb460
 TrueTypeFontImporter:
   externalObjects: {}
   serializedVersion: 4
@@ -11,7 +11,8 @@ TrueTypeFontImporter:
   fontName: Action Comcs Black
   fontNames:
   - Action Comcs Black
-  fallbackFontReferences: []
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 47859960e4cf91349a777b9c0ce37691, type: 3}
   customCharacters: 
   fontRenderingMode: 0
   ascentCalculationMode: 1

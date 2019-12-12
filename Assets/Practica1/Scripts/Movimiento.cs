@@ -23,7 +23,7 @@ public class Movimiento : MonoBehaviour
 
         if (tiempo>=1.5f)
         {
-            transform.Translate(Vector3.forward * velocidad);
+            transform.Translate(Vector2.forward * velocidad);
         }
 
          
